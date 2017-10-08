@@ -2,6 +2,9 @@
 name = "ark"
 version = "0.1.0"
 authors = ["Ian Nalbech <iannalbech87@gmail.com>"]
+description = "A Rust wrapper for the Ark Ecosystem"
+documentation = "..."
+license = "..."
 
 [dependencies]
 reqwest = "0.8.0"
@@ -12,7 +15,3 @@ tokio-tls = "0.1"
 error-chain = "0.10"
 serde = "1.0"
 serde_derive = "1.0"
-
-description = "A rust wrapper for the Ark Ecosystem"
-documentation = "..."
-license = "..."
