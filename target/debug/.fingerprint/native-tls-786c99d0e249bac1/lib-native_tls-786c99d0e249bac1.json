@@ -1,0 +1,1 @@
+{"rustc":1917907387507472122,"features":"[]","target":11294091012010696467,"profile":731176819336294830,"deps":[["security-framework v0.1.16",5403061079333289180],["security-framework-sys v0.1.16",14296709958086698153],["tempdir v0.3.5",792290881357306798]],"local":[{"Precalculated":"0.1.4"}],"rustflags":[]}
