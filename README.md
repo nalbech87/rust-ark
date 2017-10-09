@@ -170,3 +170,7 @@ Err(e) => println!("Error: {:?}", e),
 // delegate: 2500000000, 
 // multisignature: 500000000 }) }
 ```
+
+## Sponsor
+
+This app was sponsored by the **Ark Community Fund**
