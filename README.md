@@ -1,3 +1,5 @@
-# rust-ark
+<h1 align="center">rust-ark</h1>
 
-[![crates.io](https://img.shields.io/crates/v/ark.svg)](https://crates.io/crates/ark)
+<p align="center">
+    <img src="https://img.shields.io/crates/v/ark.svg"/>
+</p>
